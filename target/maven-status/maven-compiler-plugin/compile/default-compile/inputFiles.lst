@@ -1,4 +1,4 @@
-/home/teja/training/jdbc/src/main/java/jdbc/connection/App.java
-/home/teja/training/jdbc/src/main/java/jdbc/products/viewProducts.java
-/home/teja/training/jdbc/src/main/java/jdbc/products/updateProducts.java
-/home/teja/training/jdbc/src/main/java/jdbc/products/addProducts.java
+/home/teja/jdbc/src/main/java/jdbc/products/addProducts.java
+/home/teja/jdbc/src/main/java/jdbc/connection/App.java
+/home/teja/jdbc/src/main/java/jdbc/products/viewProducts.java
+/home/teja/jdbc/src/main/java/jdbc/products/updateProducts.java
